@@ -1,11 +1,9 @@
 ---
 ---
 
-$text-color: rgb(51, 48, 43);
+$text-color: #33302b;
 $anchor-text-color: #1ABC9C;
-//$anchor-text-color: rgb(230, 63, 63);
 $background-color: #ffffff;
-//$background-color: rgb(192, 157, 0);
 
 @font-face {
     font-family: 'blaak_black_personal_useRg';
@@ -31,7 +29,7 @@ main {
 }
 
 h1 {
-	color: #1ABC9C;
+	color: $anchor-text-color;
 	background-color: $text-color;
 	font-family: 'blaak_black_personal_useRg', serif;
 	font-size: 2.4em;
@@ -153,7 +151,7 @@ footer {
 	font-family: "Arial Narrow", Arial;
 	font-size: 0.6em;
 	line-height: 0.6em;
-	padding: 0 5px;
+	padding: 0px 0px;
 }
 
 /*** media queries ***/
