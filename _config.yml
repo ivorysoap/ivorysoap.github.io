@@ -1,6 +1,6 @@
 # general configuration
 url: https://ivorysoap.github.io/
-baseurl: '/ivorPage'
+baseurl: ''
 
 # compass configuration
 compass:
