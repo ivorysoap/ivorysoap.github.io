@@ -7,7 +7,7 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/me.jpg"
   # author will appear under the avatar (optional)
-  author: "Ivor Benderavage"
+  author: ""
   # tagline will appear under the title (optional)
   tagline: ""
   # if include_content is true, the contents of the content.html include will be
