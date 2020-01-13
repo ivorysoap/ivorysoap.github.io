@@ -2,8 +2,7 @@
 
 Ivor:
   name     :   "     "
-# bio      :   "Figuring it out as I go<br>(decent success rate so far)"
-  bio      :   "21. Student, developer, project manager."
+  bio      :   "&#8291;21. Student, developer, project manager."
   avatar   :   "/assets/images/dppn_cropped.png"
   location :   "Ottawa"
   links  :
