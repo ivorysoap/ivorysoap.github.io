@@ -1,17 +1,17 @@
 # My info goes in here
 
 Ivor:
-  name     :   "Ivor Benderavage"
-  bio      :   "Figuring life out as I go (it's worked so far)"
+  name     :   "     "
+  bio      :   "Figuring it out as I go<br>(decent success rate so far)"
   avatar   :   "/assets/images/dppn_cropped.png"
   location :   "Ottawa"
   links  :
-    - label: "University of Ottawa"
+    - label: "Computer Engineering"
       icon: "fa fa-fw fa-graduation-cap"
-      url: "localhost"
-    - label: "My Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://ivorysoap.github.com"
+      url: "https://engineering.uottawa.ca/undergraduate-programs/computer-engineering"
+    # - label: "My Site"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://ivorysoap.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ivorysoap"
