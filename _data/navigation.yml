@@ -1,0 +1,6 @@
+# main links
+main:
+  - title: "About"
+    url: http://localhost:4000/
+  - title: "Articles"
+    url: /articles/
