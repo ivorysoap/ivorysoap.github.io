@@ -1,4 +1,4 @@
-I"ú
+I"ÿ
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -10,7 +10,7 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="http://localhost:4000/" >About</a>
+              <a href="https://ivorysoap.github.io" >About</a>
             </li><li class="masthead__menu-item">
               <a href="/articles/" >Articles</a>
             </li></ul>
