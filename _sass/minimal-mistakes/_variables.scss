@@ -47,6 +47,9 @@ $type-size-8: 0.625em !default; // ~10px
    Colors
    ========================================================================== */
 
+   /* Ivor's Custom Colours */
+$teal: #1abc9c !default;
+
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
@@ -128,8 +131,6 @@ $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
 
-/* Ivor's Custom Colours */
-$teal: #1abc9c !default;
 
 
 /*
