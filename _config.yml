@@ -12,13 +12,13 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Ivor Benderavage"
+title                    : "&nbsp;Ivor Benderavage&nbsp;"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : # "STUDENT | DEVELOPER | PROJECT MANAGER"
 name                     : "Ivor Benderavage"
 description              : "A website."
 url                      : "https://ivorysoap.github.io"
