@@ -48,10 +48,12 @@
   display: -ms-flexbox;
   display: flex;
   -ms-flex-item-align: center;
-  align-self: center;
+  align-self: auto;
   font-weight: bold;
   z-index: 20;
-  //background-color: #33302b;
+  // Custom settings below
+  background-color: $background-grey;
+  font-family: $helvetica;
 }
 
 .site-subtitle {

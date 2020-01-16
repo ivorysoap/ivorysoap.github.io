@@ -49,6 +49,7 @@ $type-size-8: 0.625em !default; // ~10px
 
    /* Ivor's Custom Colours */
 $teal: #1abc9c !default;
+$background-grey: #33302b !default;
 
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
@@ -65,7 +66,8 @@ $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #6f777d !default;
+//$primary-color: #6f777d !default;
+$primary-color: $teal !default;
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
