@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "&nbsp;&nbsp;Ivor Benderavage&nbsp;&nbsp;"
+title                    : "&thinsp;Ivor Benderavage&thinsp;"
 title_separator          : "|"
 subtitle                 : # "STUDENT | DEVELOPER | PROJECT MANAGER"
 name                     : "Ivor Benderavage"
