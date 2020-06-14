@@ -59,6 +59,11 @@ h6 {
   font-size: $type-size-6;
 }
 
+photocaption {
+  font-size: $type-size-8;
+  font-style: italic;
+}
+
 small,
 .small {
   font-size: $type-size-6;
@@ -66,6 +71,7 @@ small,
 
 p {
   margin-bottom: 1.3em;
+  font-size: $type-size-6;
 }
 
 u,
