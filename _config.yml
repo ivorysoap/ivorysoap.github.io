@@ -295,8 +295,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false  # Social sharing buttons
+      related: false  # "You may also like....."
   # _pages
   - scope:
       path: ""

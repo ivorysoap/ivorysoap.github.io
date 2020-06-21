@@ -30,6 +30,8 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    <!-- Start date and read-time section -->
     <p class="page__meta">
       {% if post.last_modified_at %}
         <i class="fa fa-fw fa-calendar-alt" aria-hidden="true"></i> <time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%B %d, %Y" }}</time>&emsp;
@@ -38,6 +40,8 @@
       {% endif %}
       {% if post.read_time %}<i class="fa fa-clock" aria-hidden="true"></i>&nbsp;{% include read-time.html %}{% endif %}
     </p>
+    <!-- End date and read-time section -->
+
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>

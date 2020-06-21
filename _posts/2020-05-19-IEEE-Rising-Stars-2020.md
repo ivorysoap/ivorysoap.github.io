@@ -1,6 +1,7 @@
 ---
-layout: posts
+layout: single
 title:  "IEEE Rising Stars 2020"
+date: 2020-05-19
 tags: [conferences, IEEE]
 excerpt: "My experience at the 2020 IEEE Rising Stars conference."
 read_time: true
