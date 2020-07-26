@@ -6,6 +6,19 @@ excerpt: "My work experience and projects."
 toc: false
 ---
 
+Here, you can see a bit about my work history and my projects.  If you need more details, please have a look at my resumé or my GitHub profile.
+
+
+<a href="/files/Ivor-Benderavage-Resume.pdf" class="btn btn--custom-foreground">
+  <i class="fas fa-file-pdf" aria-hidden="true"></i>&nbsp;&nbsp;Resumé
+</a>
+&nbsp;&nbsp; <!-- Gotta have a space between the buttons. -->
+<a href="https://github.com/ivorysoap" class="btn btn--custom-background">
+  <i class="fab fa-github" aria-hidden="true"></i>&nbsp;&nbsp;GitHub
+</a>
+
+
+
 ## Experience
 
 <div id="cardContainer" class="container">
