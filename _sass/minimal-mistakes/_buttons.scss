@@ -41,7 +41,7 @@
   (twitter, $twitter-color),
   (linkedin, $linkedin-color),
   (custom-foreground, $teal),  // Custom button
-  (custom-background, $background-grey);  // Custom button
+  (custom-background, $gray);  // Custom button
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
