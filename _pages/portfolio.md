@@ -32,7 +32,7 @@ Here, you can see a bit about my work history and my projects.  If you need more
             </div>
             <div class="media-content">
               <p class="title is-6">Solace</p>
-              <p class="subtitle is-7">Junior Software Developer (co-op) </p>
+              <p class="subtitle is-7">Junior Software Developer (intern) </p>
             </div>
           </div>
           <div class="content">
@@ -61,7 +61,7 @@ Here, you can see a bit about my work history and my projects.  If you need more
             </div>
             <div class="media-content">
               <p class="title is-6">Solace</p>
-              <p class="subtitle is-7">Junior Support Engineer (co-op) </p>
+              <p class="subtitle is-7">Junior Support Engineer (intern) </p>
             </div>
           </div>
           <div class="content">
