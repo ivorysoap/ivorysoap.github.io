@@ -27,7 +27,7 @@ Here, you can see a bit about my work history and my projects.  If you need more
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img src="/assets/images/solace.png" alt="Solace">
+                <img src="/assets/images/solace2.png" alt="Solace">
               </figure>
             </div>
             <div class="media-content">
@@ -56,7 +56,7 @@ Here, you can see a bit about my work history and my projects.  If you need more
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img src="/assets/images/solace.png" alt="Solace">
+                <img src="/assets/images/solace2.png" alt="Solace">
               </figure>
             </div>
             <div class="media-content">
