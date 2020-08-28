@@ -12,4 +12,4 @@ I'm Ivor, a computer engineering student at uOttawa.  I'm interested in IoT, sma
 
 ## Contact
 
-My contact info is in the sidebar.  The best way to reach out to me is by email, or by [LinkedIn message](https://linkedin.com/in/ibenderavage).
+I can be reached by [email](mailto:ivor.benderavage@gmail.com), or by [LinkedIn message](https://linkedin.com/in/ibenderavage).
