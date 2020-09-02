@@ -8,7 +8,9 @@ toc: false
 
 ## About Me
 
-I'm Ivor, a computer engineering student at uOttawa.  I'm interested in IoT, smart cities, machine learning, cybersecurity, project management, and building robots.  Outside of software, I also like architecture, cars, photography, urban design, and public transit.
+Hi, I'm Ivor.  I'm a software developer and a recent graduate in Computer Engineering from uOttawa. 
+ 
+I love programming, especially when the task at hand involves one or more of my favourite interests: IoT, robotics, smart cities, or machine learning.  Outside of software, I'm also interested in architecture, cars, photography, urban design, and public transit.
 
 ## Contact
 
