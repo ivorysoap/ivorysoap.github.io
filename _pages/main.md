@@ -14,4 +14,12 @@ I love programming, especially when the task at hand involves one or more of my 
 
 ## Contact
 
-I can be reached by [email](mailto:ivor.benderavage@gmail.com), or by [LinkedIn message](https://linkedin.com/in/ibenderavage).
+I can be reached by email, or by LinkedIn message.
+
+<a href="mailto:ivor.benderavage@gmail.com" class="btn btn--custom-background">
+  <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;Email
+</a>
+&nbsp;&nbsp; <!-- Gotta have a space between the buttons. -->
+<a href="https://linkedin.com/in/ibenderavage" class="btn btn--linkedin">
+  <i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;LinkedIn
+</a>
