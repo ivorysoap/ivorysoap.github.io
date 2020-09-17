@@ -27,7 +27,39 @@ Here, you can see a bit about my work history and my projects.  If you need more
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img src="/assets/images/solace2.png" alt="Solace">
+                <img src="/assets/images/klipfolio3.png" alt="Klipfolio">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-6">Klipfolio</p>
+              <p class="subtitle is-7">Systems Developer — Biz Ops</p>
+            </div>
+          </div>
+          <div class="content">
+            <p class="subtitle is-7">September 2020 - present</p>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
+            <ul>
+              <li>Noteworthy achievment here.</li>
+            </ul> -->
+            <div class="tags">
+              <span class="tag">Python</span>
+              <span class="tag">RESTful APIs</span>
+              <span class="tag">Data processing</span>
+              <span class="tag">HubSpot</span>
+              <span class="tag">Kafka</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!---->
+      <div class="card-gap">
+      <!---->
+    <div class="card">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img src="/assets/images/solace3.png" alt="Solace">
               </figure>
             </div>
             <div class="media-content">
@@ -36,7 +68,7 @@ Here, you can see a bit about my work history and my projects.  If you need more
             </div>
           </div>
           <div class="content">
-            <p class="subtitle is-7">Summer 2019</p>
+            <p class="subtitle is-7">May 2019 - August 2019</p>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
             <ul>
               <li>Noteworthy achievment here.</li>
@@ -50,13 +82,15 @@ Here, you can see a bit about my work history and my projects.  If you need more
           </div>
         </div>
       </div>
+      <!---->
       <div class="card-gap">
+      <!---->
       <div class="card">
         <div class="card-content">
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img src="/assets/images/solace2.png" alt="Solace">
+                <img src="/assets/images/solace3.png" alt="Solace">
               </figure>
             </div>
             <div class="media-content">
@@ -65,7 +99,7 @@ Here, you can see a bit about my work history and my projects.  If you need more
             </div>
           </div>
           <div class="content">
-            <p class="subtitle is-7">Summer 2018</p>
+            <p class="subtitle is-7">May 2018 - August 2018</p>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
             <ul>
               <li>Noteworthy achievment here.</li>
