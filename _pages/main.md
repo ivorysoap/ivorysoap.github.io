@@ -10,7 +10,7 @@ toc: false
 
 Hi, I'm Ivor.  I'm a software developer and a recent graduate in Computer Engineering from uOttawa. 
  
-I love programming, especially when the task at hand involves one or more of my favourite interests: IoT, robotics, smart cities, or machine learning.  I'm also interested in non-software-related things, like architecture, cars, photography, urban design, and public transit.  Sometimes, I write about these things in the "Posts" section of this website.
+I love programming, especially when the task at hand involves one or more of my favourite interests: IoT, robotics, smart cities, machine learning, or electronics.  I'm also interested in non-software-related things, like architecture, cars, photography, urban design, and public transit.  Sometimes, I write about these things in the "Posts" section of this website.
 
 ## Contact
 
